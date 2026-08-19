@@ -200,7 +200,9 @@ export default function Home() {
           <a href="https://www.instagram.com/bajanspundenet" target="_blank" rel="noreferrer"><span>Instagram</span><Arrow /></a>
           <a href="https://www.tiktok.com/@bajanspundenet" target="_blank" rel="noreferrer"><span>TikTok</span><Arrow /></a>
           <a href="https://www.facebook.com/share/1K4MVffy5Y/" target="_blank" rel="noreferrer"><span>Facebook</span><Arrow /></a>
+          <a href="https://www.linkedin.com/in/xannahmoniq" target="_blank" rel="noreferrer"><span>LinkedIn</span><Arrow /></a>
         </div>
+        <a className="button connect-button" href="/connect">Open Xannah’s digital card <Arrow /></a>
       </section>
 
       <footer><a className="brand-wordmark footer-brand" href="#top">BAJANS <span>PUN DE ’NET</span></a><p>© 2026 Bajans Pun De ’Net. All rights reserved.</p><p>Created by Xannah Moniq</p></footer>
