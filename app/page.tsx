@@ -11,6 +11,7 @@ export default function Home() {
           <a href="#about">About</a>
           <a href="#coverage">What we cover</a>
           <a href="#xannah">Meet Xannah</a>
+          <a href="#appearances">Appearances</a>
           <a className="nav-contact" href="#speaking">Contact</a>
         </nav>
       </header>
@@ -118,8 +119,54 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="appearances section-wrap" id="appearances">
+        <div className="section-label light"><span>04</span><p>Selected appearances & conversations</p></div>
+        <div className="appearances-heading">
+          <h2>Invited to speak.<br /><em>Trusted to tell the story.</em></h2>
+          <p>Xannah contributes to conversations across culture, identity, neurodivergence and lived experience—through invited talks, podcasts, panels and collaborative platforms.</p>
+        </div>
+
+        <div className="appearance-grid">
+          <article className="appearance-card">
+            <a className="appearance-image" href="https://youtu.be/5DVgxiUwr_I?si=7WG4R1ceJBW4_wWj" target="_blank" rel="noreferrer" aria-label="Watch Late Diagnosis in Autism and ADHD: A Bajan Lived Experience on YouTube">
+              <img src="/a2ndvoice-talk.jpg" alt="Late Diagnosis in Autism and ADHD: A Bajan Lived Experience talk artwork" />
+            </a>
+            <div className="appearance-copy">
+              <p className="card-kicker">Invited speaker</p>
+              <h3>Late Diagnosis in Autism and ADHD: <em>A Bajan Lived Experience</em></h3>
+              <p className="appearance-meta">A2ndvoice CIC · 5 June 2026</p>
+              <p>Invited by Dr Venessa Swaby, Xannah shared a personal and culturally grounded account of late autism and ADHD diagnosis—bringing a Bajan perspective to conversations around identity, understanding and lived experience.</p>
+              <a className="appearance-link" href="https://youtu.be/5DVgxiUwr_I?si=7WG4R1ceJBW4_wWj" target="_blank" rel="noreferrer">Watch the talk <Arrow /></a>
+            </div>
+          </article>
+
+          <article className="appearance-card">
+            <a className="appearance-image" href="https://podcasts.apple.com/gb/podcast/taboo-the-stories-of-caribbean-women/id1608804284?i=1000777395456" target="_blank" rel="noreferrer" aria-label="Listen to Xannah Moniq on TABOO: The Stories of Caribbean Women">
+              <img src="/taboo-xannah.jpeg" alt="TABOO: The Stories of Caribbean Women featuring Xannah Moniq artwork" />
+            </a>
+            <div className="appearance-copy">
+              <p className="card-kicker">Podcast guest</p>
+              <h3>TABOO: The Stories of Caribbean Women — <em>Xannah Moniq</em></h3>
+              <p className="appearance-meta">Hosted by Ciara James · 19 July 2026</p>
+              <p>In this long-form conversation, Xannah speaks openly about childhood abuse, heartbreak, chronic health challenges, identity and moving into a new chapter of purpose—reflecting on the experiences that shaped both the woman and the voice behind her work.</p>
+              <a className="appearance-link" href="https://podcasts.apple.com/gb/podcast/taboo-the-stories-of-caribbean-women/id1608804284?i=1000777395456" target="_blank" rel="noreferrer">Listen to the episode <Arrow /></a>
+            </div>
+          </article>
+        </div>
+
+        <div className="appearance-lower">
+          <figure className="appearance-quote"><img src="/taboo-quote.png" alt="Your background does not disqualify you from being a force — Xannah Moniq" /></figure>
+          <aside className="upcoming-appearance">
+            <p className="card-kicker">Upcoming · Panellist</p>
+            <h3>Strengthening the relevance of Caribbean and Afro-Caribbean languages</h3>
+            <p>Black British English Podcast event at the Barbados High Commission, London</p>
+            <strong>4 September 2026</strong>
+          </aside>
+        </div>
+      </section>
+
       <section className="more section-wrap" id="more">
-        <div className="section-label light"><span>04</span><p>Beyond BPDN</p></div>
+        <div className="section-label light"><span>05</span><p>Beyond BPDN</p></div>
         <div className="more-heading"><h2>One voice.<br /><em>More than one conversation.</em></h2><p>Mastering Bajan is BPDN’s little sister channel. AuDHD Unmasking is Xannah’s separate platform for neurodivergent lived experience and advocacy.</p></div>
         <div className="platform-grid">
           <article className="platform-card mastering"><p className="card-kicker">BPDN’s little sister channel</p><h3>Mastering Bajan</h3><p>Experience the soul of Barbados through its language. A separate channel exploring the accent, expressions, meanings and cultural stories carried in the way Barbadians speak. Currently paused, but not finished.</p><a className="platform-link" href="https://www.youtube.com/@MASTERINGBAJAN" target="_blank" rel="noreferrer">Visit Mastering Bajan <Arrow /></a></article>
@@ -128,7 +175,7 @@ export default function Home() {
       </section>
 
       <section className="speaking section-wrap" id="speaking">
-        <div className="section-label"><span>05</span><p>Speaking & collaboration</p></div>
+        <div className="section-label"><span>06</span><p>Speaking & collaboration</p></div>
         <div className="speaking-grid">
           <h2 className="big-quote">Bring a grounded Caribbean perspective to <em>the conversation.</em></h2>
           <div className="body-copy">
@@ -139,7 +186,7 @@ export default function Home() {
               <p>Speaking engagements, media appearances and brand partnerships are normally paid opportunities. Research, storytelling collaborations and hosted reviews are considered individually, depending on the project, expectations and value involved.</p>
               <p>Xannah retains her independent perspective, and all reviews and coverage reflect her genuine experience and honest assessment. She only accepts opportunities that genuinely align with her values. Initial approaches should be made in writing, and an enquiry does not guarantee acceptance.</p>
             </div>
-            <a className="button primary" href="mailto:bajanspundenet@gmail.com">Send a written enquiry <Arrow /></a>
+            <a className="button primary" href="mailto:bajanspundenet@gmail.com?subject=Speaking%20or%20collaboration%20enquiry%20for%20Xannah%20Moniq">Discuss an invitation or collaboration <Arrow /></a>
           </div>
         </div>
       </section>
