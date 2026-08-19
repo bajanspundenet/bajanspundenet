@@ -113,7 +113,7 @@ export default function Home() {
             <p className="book-line">Xannah is also the published author of <a href="https://www.amazon.co.uk/dp/B08XC14N5M" target="_blank" rel="noreferrer"><em>for YOU: Just What You Need to Hear Right Now</em></a>, <a href="https://www.amazon.co.uk/dp/B09JJ7FBLR" target="_blank" rel="noreferrer"><em>For You: The Silver Lining</em></a> and <a href="https://www.amazon.co.uk/dp/B09L4NZXL2" target="_blank" rel="noreferrer"><em>A Book of Colouring Just for You: Relaxation and Inspiration</em></a>.</p>
             <p>Xannah’s relationship with technology and digital creativity stretches back decades, from repairing computers and designing webpages to desktop publishing and her later professional work as a technician. Combined with a personal and family history rich in creativity, that background gives her work an unusual balance of technical thinking, visual instinct, careful organisation and imaginative storytelling.</p>
             <p>Her advocacy extends beyond Bajan culture and representation to mental health, chronic illness, hidden disabilities and late neurodivergent discovery. Whether examining Bajan history, commenting on a current issue or speaking about identity and lived experience, her approach remains the same: research carefully, speak plainly and never flatten a complicated story merely to make it easier to consume.</p>
-            <blockquote>“My perspective comes first. Conversations add context. If I can’t be honest, I don’t make it.”</blockquote>
+            <blockquote>“Honest perspectives open the conversation. Respect, research and context take it further.”</blockquote>
           </div>
         </div>
       </section>
