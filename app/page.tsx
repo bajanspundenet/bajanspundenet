@@ -156,12 +156,13 @@ export default function Home() {
 
         <div className="appearance-lower">
           <figure className="appearance-quote"><img src="/taboo-quote.png" alt="Your background does not disqualify you from being a force — Xannah Moniq" /></figure>
-          <aside className="upcoming-appearance">
-            <p className="card-kicker">Upcoming · Panellist</p>
-            <h3>Strengthening the relevance of Caribbean and Afro-Caribbean languages</h3>
-            <p>Black British English Podcast event at the Barbados High Commission, London</p>
-            <strong>4 September 2026</strong>
-          </aside>
+          <article className="panel-appearance">
+            <p className="card-kicker">Panel discussion · Panellist</p>
+            <h3>FORWARD VOICES — <em>The Future of Creole Languages</em></h3>
+            <p className="appearance-meta">Barbados High Commission, London · 4 September 2026</p>
+            <p>Invited by the Black British English Podcast, Xannah joined a discussion on the future and relevance of Caribbean and Afro-Caribbean Creole languages—bringing perspectives grounded in Bajan language, cultural memory and digital storytelling.</p>
+            <a className="appearance-link" href="https://www.youtube.com/live/Y05oTWCfSgg?si=ndBxgeFeMq8xyeq4" target="_blank" rel="noreferrer" aria-label="Watch FORWARD VOICES: The Future of Creole Languages on YouTube">Watch the panel <Arrow /></a>
+          </article>
         </div>
       </section>
 
